@@ -1,0 +1,181 @@
+ticker,10year,fundname,social,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Impact
+SSIAX,1.78,1919 Socially Responsive Balanced Fund - A,C,C,C,C,R,No
+SESLX,1.94,1919 Socially Responsive Balanced Fund - C,C,C,C,C,R,No
+LMRNX,9.92,1919 Socially Responsive Balanced Fund - I,C,C,C,C,R,No
+ACASX,11.95,Access Capital Community Investment Fund A,P,--,--,--,X,Yes
+ACCSX,10.92,Access Capital Community Investment Fund I,P,--,--,--,X,Yes
+REDWX,10.29,Aspiration Redwood Fund,P,P,P,P,X,No
+BVSIX,6.15,Baywood SociallyResponsible Fund,--,C,C,C,C,No
+CAAAX,10.33,Calvert Aggressive Allocation Fund A,C,C,C,C,--,Yes
+CAACX,4.01,Calvert Aggressive Allocation Fund C,C,C,C,C,--,Yes
+CSIFX,9.69,Calvert Balanced Portfolio A,P,C,C,C,X,Yes
+CSGCX,10.53,Calvert Balanced Portfolio C,P,C,C,C,X,Yes
+CBAIX,7.06,Calvert Balanced Portfolio I,P,C,C,C,X,Yes
+CSIBX,--,Calvert Bond Portfolio A,P,C,C,C,X,Yes
+CSBCX,11.02,Calvert Bond Portfolio C,P,C,C,C,X,Yes
+CBDIX,13.19,Calvert Bond Portfolio I,P,C,C,C,X,Yes
+CCAFX,1.8,Calvert Capital Accumulation Fund A,C,C,C,C,--,Yes
+CCACX,2.99,Calvert Capital Accumulation Fund C,C,C,C,C,--,Yes
+CCPIX,17.4,Calvert Capital Accumulation Fund I,C,C,C,C,--,Yes
+CCLAX,4.53,Calvert Conservative Allocation Fund A,C,C,C,C,--,Yes
+CALCX,--,Calvert Conservative Allocation Fund C,C,C,C,C,--,Yes
+CVMAX,--,Calvert Emerging Markets Equity Fund A,C,C,C,C,--,Yes
+CVMCX,10.39,Calvert Emerging Markets Equity Fund C,C,C,C,C,--,Yes
+CVMIX,9.54,Calvert Emerging Markets Equity Fund I,C,C,C,C,--,Yes
+CSIEX,--,Calvert Equity Portfolio A,C,C,C,C,--,Yes
+CSECX,8.95,Calvert Equity Portfolio C,C,C,C,C,--,Yes
+CEYIX,9.88,Calvert Equity Portfolio I,C,C,C,C,--,Yes
+CGAEX,--,Calvert Global Energy Solutions Fund A,C,C,C,C,--,Yes
+CGACX,--,Calvert Global Energy Solutions Fund C,C,C,C,C,--,Yes
+CAEIX,--,Calvert Global Energy Solutions Fund I,C,C,C,C,--,Yes
+CFWAX,--,Calvert Global Water Fund A,C,C,C,C,--,Yes
+CFWCX,4.48,Calvert Global Water Fund C,C,C,C,C,--,Yes
+CFWIX,--,Calvert Global Water Fund I,C,C,C,C,--,Yes
+CGAFX,3.77,Calvert Green Bond Fund A,C,C,C,C,--,Yes
+CGBIX,4.98,Calvert Green Bond Fund I,C,C,C,C,--,Yes
+CYBAX,17.09,Calvert High Yield Bond Fund A,C,C,C,C,C,Yes
+CHBCX,6,Calvert High Yield Bond Fund C,C,C,--,C,--,Yes
+CYBIX,3.81,Calvert High Yield Bond Fund I,C,C,C,C,--,Yes
+CFICX,9.55,Calvert Income Fund A,C,C,C,C,C,Yes
+CIFCX,8.73,Calvert Income Fund C,C,C,C,C,--,Yes
+CINCX,9.73,Calvert Income Fund I,C,C,C,C,--,Yes
+CWVGX,11.02,Calvert International Equity Fund A,C,C,C,C,--,Yes
+CWVCX,11.02,Calvert International Equity Fund C,C,C,C,C,--,Yes
+CWVIX,1.75,Calvert International Equity Fund I,C,C,C,C,--,Yes
+COIIX,2.19,Calvert International Opportunities Fund A,C,C,C,C,--,Yes
+COICX,1.87,Calvert International Opportunities Fund C,C,C,C,C,--,Yes
+COIIX,2.73,Calvert International Opportunities Fund I,C,C,C,C,--,Yes
+CLDAX,12.32,Calvert Long-Term Income Fund A,C,C,C,C,--,Yes
+CLDIX,2.57,Calvert Long-Term Income Fund I,C,C,C,C,--,Yes
+CMAAX,16.07,Calvert Moderate Allocation Fund A,C,C,C,C,--,Yes
+CMACX,9.07,Calvert Moderate Allocation Fund C,C,C,C,C,--,Yes
+CSDAX,3.58,Calvert Short Duration Income Fund A,C,C,C,C,--,Yes
+CDICX,16.94,Calvert Short Duration Income Fund C,C,C,C,C,--,Yes
+CDSIX,9.93,Calvert Short Duration Income Fund I,C,C,C,C,--,Yes
+CCVAX,13.71,Calvert Small Cap Fund A,C,C,C,C,--,Yes
+CSCCX,16.63,Calvert Small Cap Fund C,C,C,C,C,--,Yes
+CSVIX,15.71,Calvert Small Cap Fund I,C,C,C,C,--,Yes
+CTTLX,--,Calvert Tax-Free Bond Fund A,C,C,C,C,--,Yes
+CTTCX,--,Calvert Tax-Free Bond Fund C,C,C,C,C,--,Yes
+CTTIX,3.2,Calvert Tax-Free Bond Fund I,C,C,C,C,--,Yes
+CSXAX,--,Calvert U.S. Large Cap Core Responsible Index Fund A,C,C,C,C,--,Yes
+CSXCX,--,Calvert U.S. Large Cap Core Responsible Index Fund C,C,C,C,C,--,Yes
+CISIX,--,Calvert U.S. Large Cap Core Responsible Index Fund I,C,C,C,C,C,Yes
+CGJAX,1.28,Calvert U.S. Large Cap Growth Responsible Index Fund A,C,C,C,C,--,Yes
+CGJIX,--,Calvert U.S. Large Cap Growth Responsible Index Fund I,C,C,C,C,--,Yes
+CFJAX,--,Calvert U.S. Large Cap Value Responsible Index Fund A,C,C,C,C,--,*
+CFJIX,--,Calvert U.S. Large Cap Value Responsible Index Fund I,C,C,C,C,--,Yes
+CULAX,--,Calvert Ultra-Short Income Fund A,C,C,C,C,C,Yes
+CULIX,7.41,Calvert Ultra-Short Income Fund I,C,C,C,C,--,Yes
+CUBAX,8.28,Calvert Unconstrained Bond Fund A,C,C,C,C,--,Yes
+CUBCX,8.77,Calvert Unconstrained Bond Fund C,C,C,C,C,--,Yes
+CUBIX,5.38,Calvert Unconstrained Bond Fund I,C,C,C,C,--,Yes
+CCMNX,5.72,CCM Alternative Income Fund,C,C,C,C,C,*
+CHGX,14.37,Change Finance U.S. Large Cap Fossil Fuel Free ETF,--,C,C,C,--,*
+LCILX,7.56,ClearBridge Sustainability Leaders Fund (IS shares),P,P,P,C,R,Yes
+CRAIX,7.57,CRA Qualified Investment - CRA,P,P,--,--,--,*
+CRANX,--,CRA Qualified Investment - Institutional,P,P,--,--,--,Yes
+CRATX,2.83,CRA Qualified Investment - Retail,P,P,--,--,--,Yes
+DOMAX,3.05,Domini International Social Equity Fund -- A shares,C,C,C,C,R,Yes
+DOMOX,13.95,Domini International Social Equity Fund -- Institutional shares,C,C,C,C,R,Yes
+DOMIX,13.95,Domini International Social Equity Fund -- Investor shares,C,C,C,C,R,Yes
+DSBFX,14.29,Domini Social Bond Fund - Investor shares,C,C,C,C,R,Yes
+DSBIX,--,Domini Social Bond Fund -- Institutional shares,C,C,C,C,R,Yes
+DSEPX,--,Domini Social Equity Fund -- A shares,C,C,C,C,R,Yes
+DIEQX,--,Domini Social Equity Fund -- Institutional shares,C,C,C,C,R,Yes
+DSEFX,--,Domini Social Equity Fund -- Investor shares,C,C,C,C,R,Yes
+DSFRX,10.73,Domini Social Equity Fund -- R shares,C,C,C,C,R,Yes
+EMNT,15.85,Enhanced Short Maturity Active ESG Exchange-Traded Fund,P,C,R,R,R,*
+ETHO,--,Etho Climate Leadership US ETF,--,--,--,--,--,*
+SRIFX,--,FundX Sustainable Impact Equity,--,--,R,--,--,No
+GCBLX,--,Green Century Balanced,P,C,C,P,--,Yes
+GCEQX,11.59,Green Century Equity,--,C,C,C,--,Yes
+GCIFX,8.25,Green Century MSCI International Index Fund - Institution,--,C,C,C,--,Yes
+GCINX,5.49,Green Century MSCI International Index Fund - Investor,--,C,C,C,--,Yes
+MGGYX,10,Mirova Global Green Bond Fund,--,--,--,--,--,Yes
+ESGMX,--,Mirova Global Sustainable Equity Fund - Class A,C,P,R,C,--,Yes
+ESGYX,18.6,Mirova Global Sustainable Equity Fund - Class Y,C,P,R,C,--,Yes
+MRVYX,2.7,Mirova International Sustainable Equity Fund,--,--,--,--,--,Yes
+NSFBX,3.11,Natixis Sustainable Future 2015 Fund,--,--,--,--,--,No
+NSFDX,19.1,Natixis Sustainable Future 2020 Fund,--,--,--,--,--,No
+NSFEX,9.02,Natixis Sustainable Future 2025 Fund,--,--,--,--,--,No
+NSFGX,9.72,Natixis Sustainable Future 2030 Fund,--,--,--,--,--,No
+NSFGX,5.87,Natixis Sustainable Future 2035 Fund,--,--,--,--,--,No
+NSFHX,6.56,Natixis Sustainable Future 2040 Fund,--,--,--,--,--,No
+NSFJX,--,Natixis Sustainable Future 2045 Fund,--,--,--,--,--,No
+NSFKX,12.36,Natixis Sustainable Future 2050 Fund,--,--,--,--,--,No
+NSFLX,12.94,Natixis Sustainable Future 2055 Fund,--,--,--,--,--,No
+NSFMX,--,Natixis Sustainable Future 2060 Fund,--,--,--,--,--,No
+NBSRX,13.44,Neuberger Berman Socially Resp Inv,P,P,P,P,X,No
+NRARX,13.89,Neuberger Berman Socially Resp R3,P,P,P,P,X,No
+NBSTX,13.68,Neuberger Berman Socially Resp Tr,P,P,P,P,X,No
+NRAAX,13.49,Neuberger Berman Socially Responsive A,P,P,P,P,X,No
+NRACX,13.46,Neuberger Berman Socially Responsive C,P,P,P,P,X,No
+NBSLX,12.61,Neuberger Berman Socially Responsive I,P,P,P,P,P,No
+NALFX,13.19,New Alternatives Fund A Shares,P,P,P,P,X,No
+NAEFX,--,New Alternatives Fund Investor Shares,P,P,P,P,X,No
+PRBLX,--,Parnassus Core Equity Fund,P,P,P,P,R,Yes
+PARWX,--,Parnassus Endeavor Fund,P,P,P,P,R,Yes
+PRFIX,--,Parnassus Fixed Income Fund,P,P,P,P,R,Yes
+PARMX,--,Parnassus Mid Cap Fund,P,P,P,P,R,Yes
+PARNX,--,Parnassus Mid Cap Growth Fund,P,P,P,P,R,Yes
+PAXBX,--,Pax Core Bond Fund Individual,C,C,C,C,R,Yes
+PXBIX,--,Pax Core Bond Fund Institutional,C,C,C,C,R,Yes
+PXWEX,--,Pax Ellevate Global Women's Leadership Fund - Individual Investor,C,C,C,C,--,Yes
+PXWIX,--,Pax Ellevate Global Women's Leadership Fund - Institutional Class,C,C,C,C,--,Yes
+PAXDX,13.17,Pax ESG Beta Dividend Fund Individual,--,C,C,C,R,Yes
+PXDIX,15.5,Pax ESG Beta Dividend Fund Institutional,--,C,C,C,R,Yes
+PXGAX,17.71,Pax ESG Beta Quality Fund - Class A,C,C,C,C,R,Yes
+PXWGX,--,Pax ESG Beta Quality Fund - Individual Investor,C,C,C,C,R,Yes
+PWGIX,--,Pax ESG Beta Quality Fund - Institutional Investor,C,C,C,C,R,Yes
+PGRNX,5.23,Pax Global Environmental Markets Fund - Individual Investor,C,C,C,C,R,Yes
+PGINX,9.75,Pax Global Environmental Markets Fund - Institutional Class,C,C,C,C,R,Yes
+PXEAX,--,Pax Global Environmental Markets Fund A,C,C,C,C,R,Yes
+PAXHX,9.49,Pax High Yield Bond Fund - Individual Investor,C,C,C,C,R,Yes
+PXHIX,--,Pax High Yield Bond Fund - Institutional Investor,C,C,C,C,R,Yes
+PXHAX,--,Pax High Yield Bond Fund A,C,C,C,C,R,Yes
+PAXLX,12.75,Pax Large Cap Fund Individual,C,C,C,C,R,Yes
+PXLIX,12.47,Pax Large Cap Fund Intitutional,C,C,C,C,R,Yes
+PXINX,1.87,Pax MSCI EAFE ESG Leaders Index Fund - Individual Investor,C,C,C,C,--,Yes
+PXNIX,12.59,Pax MSCI EAFE ESG Leaders Index Fund - Institutional Class,C,C,C,C,--,Yes
+PXSCX,16.03,Pax Small Cap Fund - Individual Investor,C,C,C,C,R,Yes
+PXSIX,2.42,Pax Small Cap Fund - Institutional Class,C,C,C,C,R,Yes
+PXSAX,--,Pax Small Cap Fund A,C,C,C,C,R,Yes
+PAXWX,14.04,Pax Sustainable Allocation Fund - Individual Investor,C,C,C,C,R,Yes
+PAXIX,--,Pax Sustainable Allocation Fund - Institutional Investor,C,C,C,C,R,Yes
+PCEIX,--,PIMCO Climate Bond Fund,P,C,R,R,R,*
+PEGIX,--,PIMCO ESG Income Fund,P,C,R,R,R,No
+PLDIX,--,PIMCO Low Duration ESG Fund,P,C,R,R,R,No
+PTSAX,--,PIMCO Total Return ESG Fund,P,C,R,R,R,No
+PORTX/,5.54,Portfolio 21 Global Equity Fund,X,C,C,C,--,*
+MBAPX,5.53,Praxis Genesis Balanced A,P,P,P,P,--,Yes
+MCONX,--,Praxis Genesis Conservative A,P,P,P,P,--,Yes
+MGAFX,5.47,Praxis Genesis Growth A,P,P,P,P,--,Yes
+MMDEX,--,Praxis Growth Index Fund - Institutional,P,P,P,P,--,Yes
+MGNDX,12.27,Praxis Growth Index Fund A,P,P,P,P,--,Yes
+MIIIX,12.56,Praxis Intermediate Income - Institutional,P,P,P,P,--,Yes
+MIIAX,11.08,Praxis Intermediate Income A,P,P,P,P,--,Yes
+MPLAX,13.76,Praxis International Index A,P,P,P,P,--,Yes
+MPLIX,11.35,Praxis International Index Fund - Institutional,P,P,P,P,--,Yes
+MMSIX,--,Praxis Small Cap Fund - Institutional,P,P,P,P,--,Yes
+MMSCX,--,Praxis Small Cap Fund A,P,P,P,P,--,Yes
+MVIIX,--,Praxis Value Index - Institutional,P,P,P,P,--,Yes
+MVIAX,10.5,Praxis Value Index A,P,P,P,P,--,*
+SEBFX,--,Saturna Sustainable Bond Fund,C,C,C,C,--,No
+SEEFX,11.28,Saturna Sustainable Equity Fund,C,C,C,C,--,No
+TSBIX,14.84,TIAA-CREF Social Choice Bond Institutional,P,P,P,P,X,Yes
+TSBPX,15.16,TIAA-CREF Social Choice Bond Premier,P,P,P,P,X,Yes
+TSBRX,14.99,TIAA-CREF Social Choice Bond Retail,P,P,P,P,X,Yes
+TSBBX,14.88,TIAA-CREF Social Choice Bond Retirement,P,P,P,P,X,Yes
+TISCX,--,TIAA-CREF Social Choice Equity Institutional,P,P,P,P,X,No
+TRPSX,--,TIAA-CREF Social Choice Equity Premier,P,P,P,P,X,No
+TICRX,--,TIAA-CREF Social Choice Equity Retail,P,P,P,P,X,No
+TRSCX,--,TIAA-CREF Social Choice Equity Retirement,P,P,P,P,X,No
+TSMDX,--,Trillium Small/Mid Cap Mutual Fund,--,C,C,C,C,No
+VGSRX,--,Vert Global Sustainable Real Estate Fund,C,C,C,C,C,No
+WSBFX,12.59,Walden Asset Management Fund,C,C,R,C,--,No
+WSEFX,--,Walden Equity Fund,C,C,R,C,--,No
+WAMFX,--,Walden Midcap Fund,C,C,R,C,--,No
+WASOX,10.41,Walden Small Cap Innovations Fund,P,P,R,P,--,*
+WASMX,14.27,Walden SMID Cap Innovations Fund,P,P,R,P,--,No
+ZSRIX,--,Zeo Sustainable Credit Fund,C,C,C,C,C,No
